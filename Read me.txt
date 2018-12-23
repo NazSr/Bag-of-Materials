@@ -1,0 +1,9 @@
+Directory:	Bag-of-Materials
+Input Files:	buyer_items.txt
+		input.csv
+		Read me.txt
+		Bag-of-Materials.pdf
+		Bag-of-Materials.ipynb
+Sub-Directory:	Categories
+		Subcategories
+		.ipynb_checkpoints
